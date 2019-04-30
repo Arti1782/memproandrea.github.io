@@ -43,15 +43,5 @@
 <!-- Конец конца-->
 </div>
 </h1>
-    </font>
-<br><br><br><br><br><br>
-<body bgcolor="CCFF00">
-                       <font size="5" color="blue" face="Impact">
-                        Добрый день!
-                       <hr color="red" size="3">
-                        Самые годные мемы про Андрея у нас!
-</font>
-<br>
-<center><img src="kK6mTP8xB_4.jpg" width="500" height="200"></center>
 </body>
 </html>
