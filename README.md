@@ -1,12 +1,8 @@
-# memproandrea.github.io
+
 <html>
-
-
 <head>
-
 <title>Мемы про Андрея</title>
 </head>
-
 <h1>
     <font color="FF6600" face="Tahoma">
     <center>Привет!Наш сайт посвещён Андрею!А точнее мемам про Андрея!</center>
@@ -57,7 +53,5 @@
 </font>
 <br>
 <center><img src="kK6mTP8xB_4.jpg" width="500" height="200"></center>
-
-
 </body>
 </html>
